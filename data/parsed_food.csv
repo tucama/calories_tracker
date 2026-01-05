@@ -1,0 +1,79 @@
+id,name,category,portion,carbs,proteins,fats,cals
+0,"Hummus, commercial",Legumes and Legume Products,tablespoon,14.9,7.35,17.1,229.0
+1,"Tomatoes, grape, raw",Vegetables and Vegetable Products,tomatoes,5.51,0.83,0.63,113.0
+2,"Beans, snap, green, canned, regular pack, drained solids",Vegetables and Vegetable Products,cup,4.11,1.04,0.39,86.0
+3,"Frankfurter, beef, unheated",Sausages and Luncheon Meats,piece,2.89,11.7,28.0,1310.0
+4,"Nuts, almonds, dry roasted, with salt added",Nut and Seed Products,cup,16.2,20.4,57.8,2590.0
+5,"Kale, raw",Vegetables and Vegetable Products,cup,4.42,2.92,1.49,35.0
+6,"Egg, whole, raw, frozen, pasteurized",Dairy and Egg Products,oz,0.91,12.3,10.3,150.0
+7,"Egg, white, raw, frozen, pasteurized",Dairy and Egg Products,oz,0.74,10.1,0.16,201.0
+8,"Egg, white, dried",Dairy and Egg Products,tablespoon,6.02,79.9,0.65,376.0
+9,"Onion rings, breaded, par fried, frozen, prepared, heated in oven",Vegetables and Vegetable Products,piece,36.3,4.52,14.4,1210.0
+10,"Pickles, cucumber, dill or kosher dill",Vegetables and Vegetable Products,spear,1.99,0.48,0.43,12.0
+11,"Cheese, parmesan, grated",Dairy and Egg Products,tablespoon,12.4,29.6,28.0,1760.0
+12,"Cheese, pasteurized process, American, vitamin D fortified",Dairy and Egg Products,slice,5.27,18.0,30.6,366.0
+13,"Grapefruit juice, white, canned or bottled, unsweetened",Fruits and Fruit Juices,cup,7.59,0.55,0.7,37.0
+14,"Peaches, yellow, raw",Fruits and Fruit Juices,fruit,10.1,0.91,0.27,174.0
+15,"Seeds, sunflower seed kernels, dry roasted, with salt added",Nut and Seed Products,cup,17.1,21.0,56.1,2560.0
+16,"Bread, white, commercially prepared",Baked Products,slice,49.2,9.43,3.59,1130.0
+17,"Kale, frozen, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,cup,5.3,2.94,1.21,151.0
+18,"Mustard, prepared, yellow",Spices and Herbs,cup,5.3,4.25,3.38,61.0
+20,"Nectarines, raw",Fruits and Fruit Juices,each,9.18,1.06,0.28,39.0
+22,"Cheese, cottage, lowfat, 2% milkfat",Dairy and Egg Products,cup,4.31,11.0,2.3,352.0
+23,"Cheese, mozzarella, low moisture, part-skim",Dairy and Egg Products,cup,4.44,23.7,20.4,298.0
+24,"Egg, whole, dried",Dairy and Egg Products,cup,1.87,48.1,39.8,575.0
+25,"Egg, yolk, raw, frozen, pasteurized",Dairy and Egg Products,oz,0.59,15.6,25.1,1240.0
+26,"Egg, yolk, dried",Dairy and Egg Products,tablespoon,1.07,34.2,55.5,2740.0
+27,"Yogurt, Greek, plain, nonfat",Dairy and Egg Products,container,3.64,10.3,0.37,61.0
+28,"Yogurt, Greek, strawberry, nonfat",Dairy and Egg Products,container,12.2,8.06,0.15,347.0
+29,"Oil, coconut",Fats and Oils,tablespoon,0.84,0.0,99.1,833.0
+30,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",Poultry Products,drumstick,0.0,23.9,5.95,156.0
+31,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",Poultry Products,piece,0.0,32.1,3.24,695.0
+32,"Sauce, pasta, spaghetti/marinara, ready-to-serve","Soups, Sauces, and Gravies",serving,8.05,1.41,1.48,186.0
+33,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",Sausages and Luncheon Meats,slice,0.27,16.7,3.73,106.0
+34,"Olives, green, Manzanilla, stuffed with pimiento",Fruits and Fruit Juices,olive,4.96,1.15,12.9,543.0
+35,"Cookies, oatmeal, soft, with raisins",Baked Products,cookie,69.6,5.79,14.3,1800.0
+36,"Tomatoes, canned, red, ripe, diced",Vegetables and Vegetable Products,cup,3.32,0.84,0.5,76.0
+37,"Fish, haddock, raw",Finfish and Shellfish Products,fillet,0.0,16.3,0.45,308.0
+38,"Fish, pollock, raw",Finfish and Shellfish Products,fillet,0.0,12.3,0.41,235.0
+40,"Restaurant, Chinese, fried rice, without meat",Restaurant Foods,cup,32.5,3.84,3.19,729.0
+41,"Restaurant, Latino, tamale, pork",Restaurant Foods,piece,15.8,7.38,9.04,174.0
+42,"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",Restaurant Foods,piece,31.5,5.59,9.01,229.0
+43,"Bread, whole-wheat, commercially prepared",Baked Products,slice,43.1,12.3,3.55,1060.0
+44,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",Beef Products,roast,0.0,27.7,6.36,735.0
+45,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",Beef Products,steak,0.0,22.8,6.39,648.0
+46,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,roast,0.0,23.4,2.48,122.0
+47,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,roast,0.0,23.7,2.41,514.0
+48,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",Beef Products,steak,0.0,22.7,5.32,606.0
+49,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",Beef Products,steak,0.0,27.3,11.4,219.0
+51,"Cheese, dry white, queso seco",Dairy and Egg Products,cup,2.07,24.5,24.3,326.0
+52,"Cheese, ricotta, whole milk",Dairy and Egg Products,cup,6.86,7.81,11.0,157.0
+53,"Cheese, swiss",Dairy and Egg Products,slice,1.44,27.0,31.0,1640.0
+54,"Figs, dried, uncooked",Fruits and Fruit Juices,each,63.9,3.3,0.92,249.0
+55,"Lettuce, cos or romaine, raw",Vegetables and Vegetable Products,bunch,3.24,1.24,0.26,70.0
+56,"Melons, cantaloupe, raw",Fruits and Fruit Juices,wedge,8.16,0.82,0.18,141.0
+57,"Oranges, raw, navels",Fruits and Fruit Juices,cup,11.8,0.91,0.15,196.0
+58,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,cup,5.18,3.38,0.95,43.0
+59,"Pears, raw, bartlett",Fruits and Fruit Juices,cup,15.1,0.38,0.16,57.0
+60,"Restaurant, Chinese, sweet and sour pork",Restaurant Foods,order,25.5,8.88,13.6,260.0
+62,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,cup,4.92,3.43,0.08,144.0
+63,"Sauce, salsa, ready-to-serve","Soups, Sauces, and Gravies",tablespoon,6.74,1.44,0.19,29.0
+64,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,cup,4.9,3.36,1.9,50.0
+65,"Sausage, breakfast sausage, beef, pre-cooked, unprepared",Sausages and Luncheon Meats,link,3.37,13.3,28.7,1370.0
+66,"Sausage, Italian, pork, mild, cooked, pan-fried",Sausages and Luncheon Meats,link,2.15,18.2,26.2,1350.0
+67,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",Sausages and Luncheon Meats,link,2.63,19.3,28.1,1450.0
+68,"Milk, whole, 3.25% milkfat, with added vitamin D",Dairy and Egg Products,cup,4.63,3.27,3.2,251.0
+69,"Sausage, turkey, breakfast links, mild, raw",Sausages and Luncheon Meats,package,0.93,16.7,10.4,169.0
+70,"Sugars, granulated",Sweets,teaspoon,99.6,0.0,0.32,385.0
+71,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",Poultry Products,paired cooked w,0.0,27.1,11.6,922.0
+72,"Ham, sliced, restaurant",Pork Products,slice,2.36,19.6,3.68,507.0
+73,"Cheese, American, restaurant",Dairy and Egg Products,slice,6.35,17.5,31.1,1570.0
+91,"Broccoli, raw",Vegetables and Vegetable Products,cup,6.27,2.57,0.34,31.0
+93,"Eggs, Grade A, Large, egg white",Dairy and Egg Products,egg,2.36,10.7,0.0,55.0
+94,"Eggs, Grade A, Large, egg yolk",Dairy and Egg Products,egg,1.02,16.2,28.8,1400.0
+99,"Eggs, Grade A, Large, egg whole",Dairy and Egg Products,egg,0.96,12.4,9.96,617.0
+100,"Pork, cured, bacon, cooked, restaurant",Pork Products,slice,2.1,40.9,36.5,2090.0
+110,"Onions, red, raw",Vegetables and Vegetable Products,Onion,9.93,0.94,0.1,186.0
+111,"Onions, yellow, raw",Vegetables and Vegetable Products,Onion,8.61,0.83,0.05,160.0
+119,"Bananas, overripe, raw",Fruits and Fruit Juices,Banana,20.1,0.73,0.22,357.0
+120,"Bananas, ripe and slightly ripe, raw",Fruits and Fruit Juices,Banana,23.0,0.74,0.29,97.0
