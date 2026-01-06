@@ -2,6 +2,7 @@
 # Hackaton 2025
 
 Students:
+
 Arthur Araújo de Lacerda,
 
 Leonhard Karl Scheuernstuhl
