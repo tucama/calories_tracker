@@ -2,7 +2,8 @@
 # Hackaton 2025
 
 Students:
-Arthur Araújo de Lacerda
+Arthur Araújo de Lacerda,
+
 Leonhard Karl Scheuernstuhl
 
 ## Calories Tracker
@@ -17,11 +18,11 @@ and allow to calculate the intake of proteins, lipids, carbohydrates and calorie
 ### 0 - Instalation
 ```bash
 # intialize venv and install dependencies
-$. .venv/bin/activate
-$pip install fzf_wrapper pandas
+$ . .venv/bin/activate
+$ pip install fzf_wrapper pandas
 
 # run the porgrammg
-$python3 kkal/app.py
+$ python3 kkal/app.py
 ```
 
 Once called the program a menu shows up with 3 options
